@@ -5,4 +5,4 @@ An simple android weather app laid out in the style of the MVP architecture. It 
 Simply import the project into Android Studio, and then add your openweathermap api key into the file `ApiUtils.java` as the string `API_KEY`. 
 
 # Screenshot
-![screenshot_2018-09-19-22-10-00](https://user-images.githubusercontent.com/8182077/45830244-545f2900-bcc2-11e8-8001-148c6a055414.jpg)
+![android_weather_app](https://user-images.githubusercontent.com/8182077/45830400-a4d68680-bcc2-11e8-9c48-2f9383b2a132.jpg)
